@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxuser74
-- 👀 I’m interested in IOT
+- 👀 I’m interested in IOT, Sonoff, Tasmota, Arduino, ESP
 - 🌱 I’m currently learning Js, Python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 maxpasserilibero.it
